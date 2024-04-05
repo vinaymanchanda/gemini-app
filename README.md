@@ -1,3 +1,6 @@
+Deployed on Vercel, link below:
+https://gemini-app-vert.vercel.app/
+
 <<<<<<< HEAD
 # React + Vite
 
